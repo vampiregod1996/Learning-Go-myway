@@ -1,1 +1,1 @@
-# Learning-Go-myway
+# Learning Go Myway
